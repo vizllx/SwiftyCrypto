@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "SwiftyCrypto"
-  s.version      = "0.0.1"
-  s.summary      = "A library for Crypto using Swift"
+  s.version      = "0.0.2"
+  s.summary      = "A library for Crypto using Swift updated for iOS 16 with backward compatibility"
   s.homepage     = "https://github.com/Wstunes/SwiftyCrypto"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author       = { "Wstunes" => "wangshuogr@qq.com" }
