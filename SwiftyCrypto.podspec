@@ -4,9 +4,9 @@ Pod::Spec.new do |s|
   s.summary      = "A library for Crypto using Swift updated for iOS 16 with backward compatibility"
   s.homepage     = "https://github.com/Wstunes/SwiftyCrypto"
   s.license      = { :type => "MIT", :file => "LICENSE" }
-  s.author       = { "Wstunes" => "wangshuogr@qq.com" }
+  s.author       = { "vizllx" => "vizllx@gmail.com" }
   s.platform     = :ios, "8.0"
-  s.source       = { :git => "https://github.com/Wstunes/SwiftyCrypto.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/vizllx/SwiftyCrypto", :tag => s.version }
   s.source_files = 'Sources/**/*.swift'
   s.preserve_paths = 'CocoaPods/**/*'
   s.swift_version = '4.0'
